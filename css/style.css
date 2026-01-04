@@ -711,7 +711,9 @@ h6 {
   font-size: 20px;
   margin-bottom: 15px;
 }
-
+.contact-description{
+  color:var(--bs-white)
+}
 .contact-info-icon {
   margin-bottom: 15px;
 }
