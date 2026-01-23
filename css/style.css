@@ -178,7 +178,7 @@ h6 {
 
 
 .btn-secondary {
-  padding: 12px 26px;
+  padding: 0.9rem 2rem;
   border-radius: 100px;
   font-size: 1rem;
   font-weight: 500;
@@ -711,9 +711,7 @@ h6 {
   font-size: 20px;
   margin-bottom: 15px;
 }
-.contact-description{
-  color:var(--bs-white)
-}
+
 .contact-info-icon {
   margin-bottom: 15px;
 }
@@ -787,5 +785,8 @@ h6 {
 
   .section-pad {
     padding: 70px 0px;
+  }
+  .footer{
+    margin-bottom:60px;
   }
 }
